@@ -1,4 +1,4 @@
-## My profile 👋
+## My profile
 <p align="left">
   <a href="https://github.com/Kajikiryoma/Kajikiryoma">
     <img src="https://komarev.com/ghpvc/?username=Kajikiryoma" alt="Kajikiryoma" />
@@ -24,7 +24,11 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kajikiryoma&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Kajikiryoma&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+### Languages
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kajikiryoma&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kajikiryoma&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajikiryoma&layout=compact&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kajikiryoma/Kajikiryoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
